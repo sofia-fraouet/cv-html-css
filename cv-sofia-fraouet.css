@@ -1,0 +1,54 @@
+
+.Informations {
+    color: rgb(255, 0, 123);
+    text-align: center;
+}
+
+h1 {
+    color: rgb(225, 65, 65);
+    text-align: center;
+    font-size: 30px;
+}
+
+h2 {
+    color: rgb(255, 127, 155);
+    text-align: center;
+    font-size: 30px;
+}
+
+h4 {
+    color: rgb(255, 127, 155);
+    text-align: center;
+    font-size: 30px;
+}
+
+h5 {
+    color: rgb(255, 127, 155);
+    text-align: center;
+    font-size: 30px;
+}
+
+.objectif {
+    color: red;
+    text-align: center;
+}
+
+.experience {
+    color: red;
+    text-align: center;
+}
+
+body{
+    background-image: url("Rose\ et\ Blanc\ Douce\ Aquarelle\ Aucune\ reproduction\ Téléphone\ Fond\ d'écran.png");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.photo img{
+    width: 30px;
+    height: 30px;
+    margin-right: 30px;
+    
+}
+
